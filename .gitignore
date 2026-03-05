@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Result files
+result_*.png
+*.avi
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
